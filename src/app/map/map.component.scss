@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.map-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    height: 80vh;
+  }
+  
+  #map {
+    border-radius: 20px;
+    height: 100%;
+  }
